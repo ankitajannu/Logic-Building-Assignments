@@ -15,8 +15,7 @@ int FactDiff(int iNo)
             iSum2 = iSum2 + iCnt;
         }
     }
-    int differnce = iSum1 -iSum2;
-    printf("Difference between summation of factors and nonfactors is : %d\n");
+    printf("%d\n",iSum1 - iSum2);
 }
 
 int main()
