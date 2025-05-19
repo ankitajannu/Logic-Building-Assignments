@@ -10,7 +10,7 @@ void Pattern(int iNo)
 
     for(iCnt = 1; iCnt <= iNo; iCnt++)
     {
-        printf("$ * ",iCnt);
+        printf("$\t*\t ",iCnt);
     }
 }
 
