@@ -8,7 +8,7 @@ void NonFact(int iNo)
     {
         if((iNo % iCnt) != 0)
         {
-            printf("%d",iCnt);
+            printf("%d\t",iCnt);
         }
     }
 }
