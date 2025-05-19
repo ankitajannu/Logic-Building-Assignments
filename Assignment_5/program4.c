@@ -8,7 +8,7 @@ void OddDisplay(int iNo)
     {
         if((iCnt % 2) != 0)
         {
-            printf("%d",iCnt);
+            printf("%d\t",iCnt);
         }    
     }
 }
