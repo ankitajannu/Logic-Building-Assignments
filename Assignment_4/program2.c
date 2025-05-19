@@ -2,20 +2,20 @@
   
 void FactRev(int iNo)
 {
-    int iRev = 0, iDigit = 0;
+    int iCnt = 0, iFact = 1;
+
     if(iNo < 0)
     {
         iNo = -iNo;
     }
-    while(iNo != 0)
+
+    for(iCnt = iNo - 1; iCnt >= 1; iCnt--)
     {
-        iDigit = iNo % 10;
-
-        iRev = iRev * 10 + iDigit;
-        iNo = iNo / 10;
-        iDigit--;
-    }
-
+        if((iNo % iCnt) == 0)
+        {
+            printf("%d\t",iCnt);
+        }    
+    } 
 }
 
 int main()
