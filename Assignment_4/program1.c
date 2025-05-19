@@ -3,7 +3,7 @@
 int MultFunc(int iNo)
 {
     int iCnt = 0; 
-    int iFact = 0;
+    int iFact = 1;
 
     if(iNo < 0)
     {
