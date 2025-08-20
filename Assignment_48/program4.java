@@ -34,7 +34,7 @@ class Pattern
             System.out.println();
         }
 
-        for(i = 0; i < Arr.length-1; i++)
+        for(i = 1; i < Arr.length; i++)
         {
             for(j = 0; j < Arr.length; j++)
             {
@@ -62,3 +62,4 @@ class program4
     }
 
 }
+
