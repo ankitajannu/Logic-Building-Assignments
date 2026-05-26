@@ -8,28 +8,28 @@ Each assignment folder contains solutions written in :
 📚  Topics Covered
 🔵 C
 
-Variables, Data Types, Operators
-Conditionals & Loops
-Functions, Arrays, Pointers
-Strings & File Handling
+-  Variables, Data Types, Operators
+-  Conditionals & Loops
+-  Functions, Arrays, Pointers
+-  Strings & File Handling
 
 🟠 C++
 
-OOP Concepts (Classes, Inheritance, Polymorphism)
-Operator Overloading
-Templates & STL Basics
+-   OOP Concepts (Classes, Inheritance, Polymorphism)
+-  Operator Overloading
+-  Templates & STL Basics
 
 🔴 Java
 
-OOP (Classes, Objects, Inheritance)
-Exception Handling
-Collections Basics
+-  OOP (Classes, Objects, Inheritance)
+-  Exception Handling
+-  Collections Basics
 
 🟣 Data Structures
 
-Arrays & Matrices
-Linked Lists (Singly, Doubly)
-Stacks & Queues
-Trees & Binary Search Trees
-Sorting & Searching Algorithms
-Recursion-based Problems
+-  Arrays & Matrices
+-  Linked Lists (Singly, Doubly)
+-  Stacks & Queues
+-  Trees & Binary Search Trees
+-  Sorting & Searching Algorithms
+-  Recursion-based Problems
